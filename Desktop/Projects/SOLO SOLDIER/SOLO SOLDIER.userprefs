@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SOLO SOLDIER.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WeaponManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Character_Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WeaponManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="G:\Unity Projects 2\SOLO SOLDIER\Assets\Scripts\Character_Movement.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
